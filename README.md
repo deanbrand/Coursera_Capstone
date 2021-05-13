@@ -14,4 +14,4 @@ Dean Brand
 
 1. **Notebook:** [Jupyter Notebook](https://github.com/deanbrand/Coursera_Capstone/blob/main/The%20Hearts%20of%20Europe%20Notebook.ipynb)
 2. **Report:** [Report](https://github.com/deanbrand/Coursera_Capstone/blob/main/ibm_HeartsOfEurope.pdf)
-3. **Presentation:** [Report](https://github.com/deanbrand/Coursera_Capstone/blob/main/HeartsOfEuropePresentation.pdf)
+3. **Presentation:** [Presentation](https://github.com/deanbrand/Coursera_Capstone/blob/main/HeartsOfEuropePresentation.pdf)
