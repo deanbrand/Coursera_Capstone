@@ -1,7 +1,7 @@
 <h1 align="center"> The Hearts of Europe </h1>
 
 <h2 align="center">
-CExploring the Neighbourhoods of 4 Cities in Europe
+Exploring the Neighbourhoods of 4 Cities in Europe
   <br>
   <br>
 Dean Brand
